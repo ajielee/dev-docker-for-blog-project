@@ -1,6 +1,6 @@
 # Dev docker for Chez Léo
 
-This is the docker that I use to develop my own blog [«Chéz Léo»](xiaojieli.com).
+This is the docker that I use to develop my own blog [«Chez Léo»](xiaojieli.com).
 
 ## Requirement
 
